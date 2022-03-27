@@ -8,21 +8,24 @@ Thomas High School ninth graders appear to have been altered. In order to avoid 
 Thomas High School students were excluded.
 
 Analysis key deliverables:
-**The district summary DataFrame
-**The school summary DataFrame
-**The top 5 performing schools, based on the overall passing rate
-**The bottom 5 performing schools, based on the overall passing rate
-**The average math score for each grade level from each school
-**The average reading score for each grade level from each school
-**The scores by school spending per student
-**The scores by school size
-**The scores by school type
+1-The district summary DataFrame
+2-The school summary DataFrame
+3-The top 5 performing schools, based on the overall passing rate
+4-The bottom 5 performing schools, based on the overall passing rate
+5-The average math score for each grade level from each school
+6-The average reading score for each grade level from each school
+7-The scores by school spending per student
+8-The scores by school size
+9-The scores by school type
 
 This project was fully developed in Python using Pandas and Numpy, code can be checked at the following link:
+
 [PyCitySchools_Challenge.ipynb](PyCitySchools_Challenge.ipynb)
 
 ## Resources
+
 [school_complete.csv](Resources/schools_complete.csv)
+
 [students_complete.csv](Resources/students_complete.csv)
 
 ## Results
@@ -34,7 +37,11 @@ passing percentages do not present relevant differences.
 
 Before
 
+![](Assets/District_Summary_Before.png)
+
 After
+
+![](Assets/District_Summary_After.png)
 
 
 **How is the school summary affected?
@@ -42,8 +49,11 @@ After
 Since the changes were made exclusively in the Thomas High School, this is the only school that was affected. We can identify small changes on the average scores and passing percentages.
 
 Before
+![](Assets/Per_School_Summary_Before.png)
 
 After
+![](Assets/Per_School_Summary_After.png)
+
 
 **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
