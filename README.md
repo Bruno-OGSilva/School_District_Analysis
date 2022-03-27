@@ -9,23 +9,15 @@ Thomas High School students were excluded.
 
 Analysis key deliverables:
 
-1-The district summary DataFrame
-
-2-The school summary DataFrame
-
-3-The top 5 performing schools, based on the overall passing rate
-
-4-The bottom 5 performing schools, based on the overall passing rate
-
-5-The average math score for each grade level from each school
-
-6-The average reading score for each grade level from each school
-
-7-The scores by school spending per student
-
-8-The scores by school size
-
-9-The scores by school type
+1. The district summary DataFrame
+2. The school summary DataFrame
+3. The top 5 performing schools, based on the overall passing rate
+4. The bottom 5 performing schools, based on the overall passing rate
+5. The average math score for each grade level from each school
+6. The average reading score for each grade level from each school
+7. The scores by school spending per student
+8. The scores by school size
+9. The scores by school type
 
 This project was fully developed in Python using Pandas and Numpy, code can be checked at the following link:
 
